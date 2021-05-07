@@ -1,1 +1,1 @@
-Test Java prject with git rebase
+Git test
